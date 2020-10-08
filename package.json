@@ -1,5 +1,9 @@
 {
   "name": "chess-pgn-reviser-node",
+  "author": {
+    "email": "laurent.bernabe@gmail.com",
+    "name": "Laurent Bernabé"
+  },
   "version": "0.1.0",
   "private": true,
   "scripts": {
