@@ -2,6 +2,7 @@
   "name": "chess-pgn-reviser-node",
   "version": "0.1.0",
   "private": true,
+  "description": "Load your chess pgn files and train yourself with them.",
   "author": {
     "email": "laurent.bernabe@gmail.com",
     "name": "Laurent Bernabé"

@@ -1,24 +1,7 @@
 # chess-pgn-reviser-node
 
-## Project setup
-```
-npm install
-```
+Load your chess pgn files and train yourself with them.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Credits
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+App icon has been downloaded from FlatIcon, and made by Flat Icons : https://www.flaticon.com/free-icon/chess_178148.
